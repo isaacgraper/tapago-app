@@ -4,4 +4,4 @@ A seguinte imagem demonstra uma Arquitetura de Microsserviços Containerizada co
 
 O motivo da escolha de uma arquitetura de microserviços foi para termos um frontend desacoplado, mantendo módulos em relação aos serviços utilizados. Suportando tanto uma escalabilidade horizontal, quanto vertical.
 
-<img src="../assets/images/tapago-app-architecture-v1.png" alt="">
+<img src="../assets/images/microservices.png" alt="">
